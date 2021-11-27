@@ -1,0 +1,39 @@
+a O0 S34 C1337 N1
++ O0
+a O1 S84 C0 N1
++ O1
+a O2 S34 C1 N1
++ O1
+- O0
+w P2 #0 O1
+w P1 #0 O2
+a O3 S84 C0 N1
++ O3
+a O4 S34 C1 N1
+w P4 #0 O3
+w P3 #0 O4
+- O3
+a O5 S84 C0 N1
++ O5
+a O6 S34 C1 N1
+w P6 #0 O5
+w P5 #0 O6
+a O7 S84 C0 N1
++ O7
+a O8 S34 C1 N1
+w P7 #0 O8
+- O7
+a O9 S84 C0 N1
++ O9
+a O10 S34 C1 N1
+w P10 #0 O9
+w P9 #0 O10
+a O11 S84 C0 N1
++ O11
+a O12 S34 C1 N1
+w P12 #0 O11
+w P11 #0 O12
+a O13 S84 C0 N1
++ O13
+a O14 S34 C1 N1
+w P13 #0 O14
