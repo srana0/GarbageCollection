@@ -10,7 +10,7 @@ To abstract the garbage collection for implementation we will focus on the follo
 | MM Operations | Command  |  Arguments| 
 |---|---|---|
 |  Allocation |  a  |  Oj Sx Cj Ny |
-|Add a reference of an object to the rootset|+ Oj|
+|Add a reference of an object to the rootset|+| Oj|
 |Store/write an object reference field into an object|w|Pj #k Ol|
 |Store/write a static object reference field into a class object|c|Cj #k Ol|
 |Read a reference field from an object|r | Oj #k|
